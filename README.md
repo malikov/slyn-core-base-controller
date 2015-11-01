@@ -1,2 +1,2 @@
-slyn-core-dust-base-controller
+slyn-core-base-controller
 ===============================
