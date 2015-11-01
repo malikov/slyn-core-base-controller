@@ -1,0 +1,27 @@
+{
+  "name": "slyn-core-dust-base-controller",
+  "version": "0.0.1",
+  "description": "slyn-core-dust-base-controller",
+  "main": "lib/index.js",
+  "keywords": [
+    "slyn-page-manager"
+  ],
+  "homepage": "https://github.com/malikov/slyn-core-dust-base-controller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-core-dust-base-controller"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "q": "~1.4.1",
+    "slyn-page-manager": "git://github.com/malikov/slyn-page-manager.git#master"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-core-dust-base-controller/issues"
+  }
+}
