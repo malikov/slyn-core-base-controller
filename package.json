@@ -18,7 +18,7 @@
   "dependencies": {
     "underscore": "~1.8.3",
     "q": "~1.4.1",
-    "slyn-page-manager": "git://github.com/malikov/slyn-core-base-controller.git#master"
+    "slyn-page-manager": "git://github.com/malikov/slyn-page-manager.git#master"
   },
   "license": "MIT",
   "bugs": {
