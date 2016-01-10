@@ -1,10 +1,10 @@
 {
   "name": "slyn-core-base-controller",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "slyn-core-base-controller",
   "main": "lib/index.js",
   "keywords": [
-    "slyn-page-manager"
+    "slyn-core-base-controller"
   ],
   "homepage": "https://github.com/malikov/slyn-core-base-controller",
   "repository": {
@@ -18,7 +18,7 @@
   "dependencies": {
     "underscore": "~1.8.3",
     "q": "~1.4.1",
-    "slyn-page-manager": "~0.0.2"
+    "slyn-page-manager": "~0.0.7"
   },
   "license": "MIT",
   "bugs": {
